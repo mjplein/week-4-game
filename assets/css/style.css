@@ -1,0 +1,28 @@
+.box {
+    width: 90px;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    margin: 60px 0 10px 310px;
+}
+
+#red {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d9534f;
+}
+#blue {
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #5bc0de;
+}
+#yellow {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #f0ad4e;
+}
+#green {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
